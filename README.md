@@ -1,5 +1,10 @@
 ### Hi there! / Hola! 👋
 
+<img src=fernandod1/main/img/flag_uk.png align=abmiddle> I share with you some of my small public projects so that you can check them. Fell free to modify them to suit your needs.
+
+<img src=fernandod1/main/img/flag_sp.png align=abmiddle> Quiero compartir contigoo algunos de mis pequeños. Espero que te sean de utilidad, cualquier sugerencia ser&aacute bienvenida.
+
+
 <!--
 **fernandod1/fernandod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
