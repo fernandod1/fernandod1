@@ -1,6 +1,6 @@
 ### Hi there! / Hola! 👋
 
-<img src=img/flag_uk.png align=abmiddle heigh=16> I share with you some of my small public projects so that you can check them. Fell free to modify them to suit your needs.
+<img src=img/flag_uk.png align=abmiddle heigh=20> I share with you some of my small public projects so that you can check them. Fell free to modify them to suit your needs.
 
 <img src=/img/flag_sp.png align=abmiddle heigh=12> Quiero compartir contigo algunos de mis pequeños proyectos. Espero que te sean de utilidad, cualquier sugerencia ser&aacute; bienvenida.
 
