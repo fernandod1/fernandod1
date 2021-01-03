@@ -2,7 +2,7 @@
 
 <img src=img/flag_uk.png align=abmiddle width=16 height=11> I share with you some of my small public projects so that you can check them. Feel free to modify them to suit your needs.
 
-<img src=img/flag_sp.png align=abmiddle width=16 height=11> Quiero compartir contigo algunos de mis pequeños proyectos. Espero que te sean de utilidad, cualquier sugerencia ser&aacute; bienvenida.
+<img src=img/flag_sp.png align=abmiddle width=16 height=11> Quiero compartir contigo algunos de mis pequeños proyectos. Espero que te sean de utilidad. Cualquier sugerencia ser&aacute; bienvenida.
 
 
 <!--
